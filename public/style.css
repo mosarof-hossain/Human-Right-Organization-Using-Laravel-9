@@ -1,0 +1,39 @@
+body{
+    background-color: #1A5035 !important;
+    margin-top: 0 none !important;
+    font-family: roboto !important;
+}
+
+.row{
+    --bs-gutter-x: 0rem !important;
+}
+ .nav-link:hover {
+    background-color:#61cf07    ;
+    box-sizing:border-box;
+    border-radius: 7px;
+  }
+
+  .dropdown-item:hover {
+    background-color: #61cf07    ;
+    box-sizing:border-box;
+    border-radius: 7px;
+  }
+  .carousel-caption {
+    padding-bottom: 10rem !important;
+}
+
+.btn{
+  padding: .3rem 1rem !important;
+  border-radius: .5rem;
+}
+  @font-face {
+    
+    src: url(assets/webfonts/Mina-Regular.ttf);
+    font-family:mina;
+  }
+  .cont{
+    color: #ddd;
+  }
+  .cont:hover{
+    color: #ddd;
+  }
